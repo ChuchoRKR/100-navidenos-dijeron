@@ -1,0 +1,27 @@
+name: 100_navidenos_dijeron
+description: Juego tipo "100 Navideños Dijeron" - Proyecto generado por ChatGPT.
+publish_to: "none"
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  audioplayers: ^3.2.4
+  shared_preferences: ^2.1.1
+  google_fonts: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/sounds/success.mp3
+    - assets/sounds/tick.mp3
+    - assets/sounds/background.mp3
+    - assets/images/tree_bg.png

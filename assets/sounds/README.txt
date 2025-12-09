@@ -1,0 +1,1 @@
+Coloca aquí tus archivos de audio: success.mp3, background.mp3, tick.mp3 (opcional).

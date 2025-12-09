@@ -1,0 +1,1 @@
+Coloca aquí tu imagen tree_bg.png para fondo (opcional).
